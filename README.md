@@ -1,7 +1,8 @@
 # Welcome to my Github profile
 ![matrix-neo](https://github.com/KadirDokur/KadirDokur/assets/45979582/80421cd2-849c-4400-b68c-2893957ee61e)
 
-💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about Cybersecurity<br>🌆Samsun/Ankara<br>![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/a6dab8b2-936b-4d60-9cc5-dbed3ddb49b5)
+💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about Cybersecurity<br>🌆Samsun/Ankara<br>![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/3703d6bd-7694-479b-920e-c3ad9049387c)
+![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/a6dab8b2-936b-4d60-9cc5-dbed3ddb49b5)
 
 
 ![](https://wp.technologyreview.com/wp-content/uploads/2023/05/IBM_lock_1200.png?w=1200)
