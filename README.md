@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Kadir
+#### I am a senior computer engineering student
+![I am a senior computer engineering student](https://wp.technologyreview.com/wp-content/uploads/2023/05/IBM_lock_1200.png?w=1200)
 
-<!--
-**KadirDokur/KadirDokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kadir from Turkey
 
-Here are some ideas to get you started:
+Skills: Python // Java// C // Networking // Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 19 Mayis University 
+- 🌱 I’m currently learning cyber security 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kadir-dokur-8100b41b8//)  
+
