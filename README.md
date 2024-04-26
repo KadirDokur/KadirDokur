@@ -1,8 +1,8 @@
 # Welcome to my Github profile
-# About me
 ![matrix-neo](https://github.com/KadirDokur/KadirDokur/assets/45979582/80421cd2-849c-4400-b68c-2893957ee61e)
 
-💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about Cybersecurity<br>🌆Samsun/Ankara<br>
+💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about Cybersecurity<br>🌆Samsun/Ankara<br>![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/24601456-bef6-4905-8984-27a1fbd28077)
+
 ![](https://wp.technologyreview.com/wp-content/uploads/2023/05/IBM_lock_1200.png?w=1200)
 
 # ⚡Fun fact
