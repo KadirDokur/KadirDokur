@@ -1,9 +1,11 @@
 # Welcome to my Github profile
 # About me
+![matrix-neo](https://github.com/KadirDokur/KadirDokur/assets/45979582/80421cd2-849c-4400-b68c-2893957ee61e)
+
 💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about Cybersecurity<br>🌆Samsun/Ankara<br>
 ![](https://wp.technologyreview.com/wp-content/uploads/2023/05/IBM_lock_1200.png?w=1200)
 
-# Fun fact 
+# ⚡Fun fact
 "nmap -v -sS -O 10.2.2.2" this is the nmap code which Trinity used in Matrix Reloaded. Trinity hacked the city power grid using Nmap version 2.54 BETA 25. After finding the vulnerable SSH server she then proceeds to exploit it using the SSH1 CRC32 exploit from 2001
 ![matrix-trinity-hack](https://github.com/KadirDokur/KadirDokur/assets/45979582/63038657-e861-4ac6-a989-474fcc633661)
 
