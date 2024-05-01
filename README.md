@@ -1,5 +1,7 @@
 # Welcome to my Github profile
-![3Sgr](https://github.com/KadirDokur/KadirDokur/assets/45979582/f964529b-d1d1-41b8-8196-c8bc343dd2db)
+![N4-QX4](https://github.com/KadirDokur/KadirDokur/assets/45979582/e6fd005a-0f16-4a38-b805-95629c5d6f7b)
+
+
 
 
 💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about Cybersecurity<br>🌆Samsun/Ankara<br>
