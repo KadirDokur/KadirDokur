@@ -1,5 +1,6 @@
 # Welcome to my Github profile
-![1](https://github.com/KadirDokur/KadirDokur/assets/45979582/159d9adf-8e67-4185-af41-f4c857f07b30)
+
+![N4-QX4 (1)](https://github.com/KadirDokur/KadirDokur/assets/45979582/f4145667-b1d7-49ea-ae6c-7f5ae8b27d1a)
 
 
 
@@ -10,8 +11,6 @@
 ![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/8401877b-8ad0-4de3-99c2-2547c91a78c1)
 ![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/a6dab8b2-936b-4d60-9cc5-dbed3ddb49b5)
 
-
-![](https://wp.technologyreview.com/wp-content/uploads/2023/05/IBM_lock_1200.png?w=1200)
 
 # ⚡Fun fact
 "nmap -v -sS -O 10.2.2.2" this is the nmap code which Trinity used in Matrix Reloaded. Trinity hacked the city power grid using Nmap version 2.54 BETA 25. After finding the vulnerable SSH server she then proceeds to exploit it using the SSH1 CRC32 exploit from 2001
