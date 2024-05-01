@@ -1,5 +1,6 @@
 # Welcome to my Github profile
-![matrix-neo](https://github.com/KadirDokur/KadirDokur/assets/45979582/80421cd2-849c-4400-b68c-2893957ee61e)
+![3Sgr](https://github.com/KadirDokur/KadirDokur/assets/45979582/f964529b-d1d1-41b8-8196-c8bc343dd2db)
+
 
 💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about Cybersecurity<br>🌆Samsun/Ankara<br>
 ![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/3703d6bd-7694-479b-920e-c3ad9049387c)
