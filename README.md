@@ -1,6 +1,7 @@
 # Welcome to my Github profile
 
-![N4-QX4 (1)](https://github.com/KadirDokur/KadirDokur/assets/45979582/1d0f3d42-ac2f-4f0a-b2ba-9868ca792b5c)
+![ezgif com-crop](https://github.com/KadirDokur/KadirDokur/assets/45979582/3ef3aadc-8307-4196-b803-6bd349ef9872)
+
 
 
 
