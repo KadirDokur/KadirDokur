@@ -9,8 +9,7 @@
 
 
 
-💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about # Malware Analysis and Reverse Engineering
-<br>🌆Samsun/Ankara<br>
+💻Senior computer engineering student at 19 Mayıs University who will graduate this July<br>🔐Currently learning about  Malware Analysis and Reverse Engineering<br>🌆Samsun/Ankara<br>
 ![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/3703d6bd-7694-479b-920e-c3ad9049387c)
 ![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/8401877b-8ad0-4de3-99c2-2547c91a78c1)
 ![image](https://github.com/KadirDokur/KadirDokur/assets/45979582/a6dab8b2-936b-4d60-9cc5-dbed3ddb49b5)
